@@ -27,9 +27,9 @@ I am a passionate frontend developer with over a year of experience specializing
 ---
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-das)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](#)
-- 💻 [GitHub](https://github.com/your-github)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-das-389262205/)
+- 📧 [Email](mailto:chandankumardas265@gmail.com)
+- 🌐 [Portfolio](https://portfolio-chandankumardas.vercel.app/)
+
 
 Let's build something amazing together! 🚀
