@@ -15,7 +15,7 @@ I am a passionate frontend developer with over a year of experience specializing
 - **State Management:** Redux Toolkit, Context API
 - **Performance Optimization:** Web vitals (CLS, FCP, TBT), Lazy loading, Code splitting
 
-### **Backend & Database (Learning)**
+### **Backend & Database **
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Firebase, Strapi.js
 
