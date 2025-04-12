@@ -1,6 +1,6 @@
 # Hi there, I'm Chandan Kumar Das! 👋
 
-## 🚀 Frontend Developer | React.js Enthusiast | MERN Stack Learner
+## 🚀 Frontend Developer | React.js  | MERN Stack 
 
 I am a passionate frontend developer with over a year of experience specializing in **React.js, Redux, and modern UI frameworks**. I love crafting beautiful, efficient, and user-friendly web applications. Currently, I am expanding my expertise in **Node.js, Express.js, MongoDB, and TypeScript** to become a full-stack developer.
 
